@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeNumberGenerator", "PrimeNumberGenerator\PrimeNumberGenerator.csproj", "{842FF96C-F9D6-48BD-BFCF-EB1F6C16324E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberGenerator.Test", "PrimeNumberGenerator.Test\PrimeNumberGenerator.Test.csproj", "{215AED43-E293-4726-A931-A153CEB63F1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{842FF96C-F9D6-48BD-BFCF-EB1F6C16324E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842FF96C-F9D6-48BD-BFCF-EB1F6C16324E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842FF96C-F9D6-48BD-BFCF-EB1F6C16324E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842FF96C-F9D6-48BD-BFCF-EB1F6C16324E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{215AED43-E293-4726-A931-A153CEB63F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215AED43-E293-4726-A931-A153CEB63F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215AED43-E293-4726-A931-A153CEB63F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215AED43-E293-4726-A931-A153CEB63F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B0B6935-06DC-4B8D-B00D-F6203FD3F066}
+	EndGlobalSection
+EndGlobal
